@@ -1,7 +1,3 @@
-Here’s a detailed and professional README.md file for your project:
-
----
-
 # 📚 **Books to Scrape Web Scraping Project** 🌐
 
 ## 🌟 **Project Overview**
